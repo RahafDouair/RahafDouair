@@ -1,4 +1,3 @@
-
 class RahafDouair {
   ABOUT = `
     Hello 👋👋, I'm Rahaf Douiar, an accomplished Front-End Engineer with a passion for crafting user-centric web solutions.
